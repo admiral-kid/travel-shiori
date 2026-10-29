@@ -1,0 +1,9 @@
+# Personal travel files must remain on the device, outside this repository.
+travel-plan*.html
+travel-plan*.json
+travel-records*.json
+*with-records*.html
+private/
+personal/
+.DS_Store
+node_modules/
